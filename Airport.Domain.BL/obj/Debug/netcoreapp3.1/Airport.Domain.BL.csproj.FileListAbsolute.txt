@@ -1,0 +1,14 @@
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\obj\Debug\netcoreapp3.1\Airport.Domain.BL.csproj.CoreCompileInputs.cache
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\obj\Debug\netcoreapp3.1\Airport.Domain.BL.AssemblyInfoInputs.cache
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\obj\Debug\netcoreapp3.1\Airport.Domain.BL.AssemblyInfo.cs
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\obj\Debug\netcoreapp3.1\Airport.Domain.BL.csprojAssemblyReference.cache
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\bin\Debug\netcoreapp3.1\Airport.Domain.BL.deps.json
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\bin\Debug\netcoreapp3.1\Airport.Domain.BL.dll
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\bin\Debug\netcoreapp3.1\Airport.Domain.BL.pdb
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\bin\Debug\netcoreapp3.1\Airport.Domain.Common.dll
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\bin\Debug\netcoreapp3.1\Airport.Domain.DAL.dll
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\bin\Debug\netcoreapp3.1\Airport.Domain.DAL.pdb
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\bin\Debug\netcoreapp3.1\Airport.Domain.Common.pdb
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\obj\Debug\netcoreapp3.1\Airport.Domain.BL.csproj.CopyComplete
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\obj\Debug\netcoreapp3.1\Airport.Domain.BL.dll
+C:\Users\faibe\source\repos\TalmaApp\Airport.Domain.BL\obj\Debug\netcoreapp3.1\Airport.Domain.BL.pdb
